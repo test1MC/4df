@@ -32,7 +32,7 @@
         Name="Logo">
         <Properties>
           <Property
-            Name="BackgroundImage">url('icon-filter-17x17.png')</Property>
+            Name="BackgroundImage">url('icon-openbook-17x17.png')</Property>
         </Properties>
       </Style>
       <Style
